@@ -18,12 +18,11 @@ This app simulates a simple employee task management system:
 > The admin assigns a new task to Employee 1. Employee 1 sees the task in their dashboard as "Active". Once finished, Employee 1 marks it as "Completed". If an employee cannot finish a task, they can mark it as "Failed". The admin can track all employees' progress and task history from their dashboard.
 
 **Admin Dashboard:**
-
-![App Demo](/src/assets/image25.png)
+![Admin Dashboard](/readmeImg/image25.png)
 
 **Employee Dashboard:**
+![Employee Dashboard](./readmeImg/image.png)
 
-![App Demo](/src/assets/image.png)
 
 ## Features
 
